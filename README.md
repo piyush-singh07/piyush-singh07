@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 #### Skills 
 <img src="https://img.icons8.com/windows/32/000000/java.png"/>Java
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>Postgresql
+<img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg"/>MySQL
 
